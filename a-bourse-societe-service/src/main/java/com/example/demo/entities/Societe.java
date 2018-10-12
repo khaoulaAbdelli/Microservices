@@ -31,6 +31,7 @@ public class Societe implements Serializable  {
 		super();
 		// TODO Auto-generated constructor stub
 	}
+
 	
 	
 	
